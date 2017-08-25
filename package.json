@@ -1,0 +1,22 @@
+{
+    "name": "icy-boys",
+    "displayName": "Icy Boys Blue",
+    "description": "Black & Black Creative's very own theme!",
+    "version": "0.0.1",
+    "publisher": "Andrew Puig",
+    "engines": {
+        "vscode": "^1.15.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "icy-boys",
+                "uiTheme": "vs-dark",
+                "path": "./themes/icy-boys-color-theme.json"
+            }
+        ]
+    }
+}
